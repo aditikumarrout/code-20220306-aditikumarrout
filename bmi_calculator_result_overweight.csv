@@ -1,0 +1,4 @@
+Gender,HeightCm,WeightKg,BMI_categoty,BMI_range,Health_risk
+Male,161,85,Moderately obese,32.79194475521777,Medium Risk
+Female,150,70,Moderately obese,31.11111111111111,Medium Risk
+Female,167,250,Very Severly obese,89.64107712718277,Very High Risk

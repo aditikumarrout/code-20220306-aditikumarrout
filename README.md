@@ -1,6 +1,6 @@
 
 
-BMI Calculator can be used for calculation of body mass index of multiple people and also will produce a sheet of BMI details. it will also help people to produce a sheet with overweight people so that they can take some precautions. 
+BMI Calculator can be used for calculation of body mass index of multiple people and also will produce a sheet of BMI details. It will also help people to produce a sheet with overweight people so that they can take some precautions. 
 
 
     json_input.json – This file contains the source JSON input
